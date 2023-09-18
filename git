@@ -1,0 +1,24 @@
+[33mcommit c86354485fd49be883ce45371efe2eafff837f02[m[33m ([m[1;36mHEAD -> [m[1;32mhtml[m[33m)[m
+Merge: a50b9e6 ea6677c
+Author: tankw <tantk113@gmail.com>
+Date:   Mon Sep 18 22:03:41 2023 +0700
+
+    Merge branch 'html' of https://github.com/wankt/html into html
+
+[33mcommit a50b9e6de482aafbf11c1bec592724f47c49f5b7[m
+Author: tan <tantk113@gmail.com>
+Date:   Mon Sep 18 21:44:34 2023 +0700
+
+    version 1
+
+[33mcommit ea6677c2663ba5c8a14ebf317f46f9d4637a8b8d[m[33m ([m[1;31morigin/html[m[33m, [m[1;32mmaster[m[33m)[m
+Author: tan <tantk113@gmail.com>
+Date:   Mon Sep 18 21:44:34 2023 +0700
+
+    version 1.2
+
+[33mcommit 124b45caebe7b660e38b20998984439b62fb175e[m
+Author: Trinh Nhat Tan <tantk113@gmail.com>
+Date:   Mon Sep 18 21:42:22 2023 +0700
+
+    version 1
