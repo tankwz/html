@@ -3,7 +3,7 @@
   height: 280px;
   object-fit: cover ;
   /*border-style: solid;*/
-  border-color:  red;
+  border-color:  blue;
 }
 .searchbar{
   display: block;
