@@ -1,7 +1,28 @@
+.header{
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.first-head{
+  width: 200px;
+  background-color: lightblue;
+}
+.second-head{
+  flex: 1;
+  background-color: lightcoral;
+  margin-left: 70px;
+  margin-right: 50px;
+  max-width: 500px;
+}
+.third-head{
+  width: 200px;
+  background-color: cyan;
+}
+
+
 .search-bar{
   display: block;
-  margin-top: 20px;
-  margin-bottom: 20px;
   font-size: 20px;
-  padding-right: 200px;
 }
