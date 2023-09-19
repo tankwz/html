@@ -6,13 +6,6 @@ p{
   width: 100%;
   /*border-style: solid;*/
 }
-.search-bar{
-  display: block;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  font-size: 20px;
-  padding-right: 200px;
-}
 
 
 .img, .video-title, .channel-name, .video-stats, .small-pfp{
@@ -48,4 +41,8 @@ p{
   grid-template-columns: 1fr 1fr 1fr;
   column-gap: 16px;
   row-gap: 40px;
+}
+
+.header{
+  display: flex;
 }
