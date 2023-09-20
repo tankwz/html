@@ -63,6 +63,7 @@
   border-color: rgb(189, 189, 189);
   margin-left: -1px;
   margin-right: 8px;
+  position: relative;
 }
 .search-vbutton {
 
@@ -137,4 +138,19 @@
  .sidebar div{
   font-size: 12px;
   font-family: Roboto, Arial;
+ }
+ .second-head .tooltip{
+  position: absolute;
+  bottom: -20px;
+  background-color: rgb(98, 98, 98);
+  border-radius: 2px;
+  color: white;
+  padding: 4px;
+  opacity: 0;
+  pointer-events: none;
+ }
+
+ .search-button:hover .tooltip{
+  opacity: 1;
+  transition: 0.5s;
  }
