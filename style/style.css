@@ -34,6 +34,7 @@ p{
 }
 .thumbnail-row{
   margin-bottom: 12px;
+  position: relative;
 }
 
 .video-grid-div{
@@ -45,4 +46,13 @@ p{
 body{
   padding-top: 60px;
   margin: 0;
+}
+.time{
+  position: absolute;
+  right: 5px;
+  background-color: black;
+  color: white;
+  bottom: 7px;
+  font-size: 20px;
+  border-radius: 2px;
 }
